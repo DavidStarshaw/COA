@@ -1,0 +1,175 @@
+ 
+
+
+
+NCEA Level 1 Mathematics and Statistics
+
+Conditions of Assessment
+
+
+General Information
+
+Subject Reference	Mathematics and Statistics
+Domains	Number, Algebra, Measurement, Trigonometry, Geometry, Statistics, Probability
+Level	1
+	
+
+This document provides guidelines for assessment against internally assessed standards.   Guidance is provided on: 
+•	appropriate ways of, and conditions for, gathering evidence    
+•	ensuring that evidence is authentic
+•	any other relevant advice specific to an achievement standard.
+
+NB:  It is expected that teachers are familiar with additional generic guidance on assessment practice in schools published on the NZQA website. This should be read in conjunction with these Conditions of Assessment.
+
+For All Standards
+
+Internal assessment provides considerable flexibility in the collection of evidence.  Evidence can be collected in different ways to suit a range of teaching and learning styles and a range of contexts of teaching and learning.  Care needs to be taken to allow students opportunities to present their best evidence against the standard(s) that are free from unnecessary constraints. 
+
+It is recommended that the design of assessment reflects and reinforces the ways students have been learning.   Collection of evidence for the internally assessed standards could include, but is not restricted to, an extended task, an investigation, digital evidence (such as recorded interviews, blogs, photographs or film) or a portfolio of evidence. 
+
+It is also recommended that the collection of evidence for internally assessed standards should not use the same method that is used for any external standards in a programme/course, particularly if that method is using a time bound written examination.  This could unfairly disadvantage students who do not perform well under these conditions. 
+
+A separate assessment event is not needed for each standard.   Often assessment can be integrated into one activity that collects evidence towards two or three different standards from a programme of learning.  Evidence can also be collected over time from a range of linked activities (for example, in a portfolio).This approach can also ease the assessment workload for both students and teachers.
+
+Effective assessment should suit the nature of the learning being assessed, provide opportunities to meet the diverse needs of all students and be valid and fair.
+
+Assessment tasks are designed so that each task provides opportunity for students to provide evidence for all grades.  There are not separate tasks for each grade.  Holistic decisions will be used in the awarding of a grade by reference to the achievement criteria in the standard.
+
+Many of the standard titles use the wording “…in solving problems”.  It is important to note that acceptable evidence could come from a partially successful solution to a problem.  Communication of the process of solving a problem may yield the required evidence of thinking, even though a correct final solution to the problem is not obtained.
+
+Where manageable, and after further learning has taken place, students may be offered a maximum of one further opportunity for assessment against an assessment standard within a year.
+
+Authenticity of student evidence needs to be assured regardless of the method of collecting evidence.  This needs to be in line with school policy.  For example, for an investigation carried out over several sessions, this could include teacher observations or the use of milestones such as meetings with students, journal or photographic entries recording progress etc.
+
+Students are expected to have access to appropriate technology.  For statistics standards this would include statistical software.
+
+Specific Information for Individual Internal Achievement Standards
+
+Achievement Standard Number	91026 Mathematics and Statistics 1.1 
+Title	Apply numeric reasoning in solving problems
+Number of Credits	4
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+
+Achievement Standard Number	91029 Mathematics and Statistics 1.4
+Title	Apply linear algebra in solving problems
+Number of Credits	3
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+The task must give opportunities to demonstrate the application of linear algebra in a real-life context.
+
+  
+Achievement Standard Number	91030 Mathematics and Statistics 1.5
+Title	Apply measurement in solving problems
+Number of Credits	3
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+Students may obtain their own measurements or be provided with measurements. Where measurements are provided, the situation must require students to choose which measurements to use to solve the problem.  
+
+
+Achievement Standard Number	91032 Mathematics and Statistics 1.7
+Title	Apply right-angled triangles in solving measurement problems
+Number of Credits	3
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+This standard will be assessed by students carrying out a practical measuring task in which the lengths and angles necessary to solve the problem are measured by the students. Measuring a scale diagram is not appropriate.
+
+The practical measuring can be done in a small group situation.
+
+The standard requires evidence of the application of at least three different methods.  It is intended that one of these methods be measuring at a level of precision appropriate to the task. 
+
+The task must give opportunities to demonstrate the application of right-angled triangles in a real life context. 
+
+ 
+Achievement Standard Number	91033 Mathematics and Statistics 1.8
+Title	Apply knowledge of geometric representations in solving problems
+Number of Credits	3
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+
+Achievement Standard Number	91034 Mathematics and Statistics 1.9
+Title	Apply transformation geometry in solving problems
+Number of Credits	2
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+
+Achievement Standard Number	91035 Mathematics and Statistics 1.10
+Title	Investigate a given multivariate data set using the statistical enquiry cycle
+Number of Credits	4
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Assessment of this standard involves an investigation. Sufficient time should be allowed for students to pose questions for use in the investigation and complete the analysis and conclusions.  
+
+Teachers will check the student’s investigative questions, and, where required, provide time for students to correct or improve their questions before beginning the second session.  Where more than minimal feedback is needed in order for the student to pose a suitable question, the student is not ready for assessment against this standard. 
+
+Students are provided with a multivariate data set which contains at least two categorical and three numeric variables that allows for suitable comparison questions to be posed.
+
+Context must be familiar to students and background detail provided with the data set.  This includes at least:
+•	details about the population
+•	the definitions of the variables 
+•	the survey questions that were used to collect the data 
+•	the sampling method 
+•	the source of the data.
+
+
+Achievement Standard Number	91036 Mathematics and Statistics 1.11
+Title	Investigate bivariate numerical data using the statistical enquiry cycle 
+Number of Credits	3
+Version	3
+
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Assessment of this standard involves an investigation. Sufficient time should be allowed for students to develop the problem and plan, carry out data collection and do the analysis and conclusions.
+
+The set up of the assessment involves the students becoming familiar with the motivating situation/problem.  Context must be familiar to students and background detail provided.  
+
+The planning and data collection may be carried out in small groups (2 or 3) or individually.  
+
+Opportunity must be available for students to review their plan with the teacher before data collection and make adjustments as required following this consultation.  
+
+
+Achievement Standard Number	91038 Mathematics and Statistics 1.13
+Title	Investigate a situation involving elements of chance
+Number of Credits	3
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Assessment of this standard involves an investigation. Sufficient time should be allowed for planning, data collection, analysis and conclusions.
+
+The motivating situation is given, and the context needs to be accessible to students with background detail provided. 
+
+Opportunity must be available for students to review their plan with the teacher before data collection and make minor adjustments to their plan in consultation with the teacher – minor feedback can be provided by the teacher for this to happen.  Where more than minimal feedback is needed, the student is not ready for assessment against this standard.
+
+The planning and data collection may be carried out in small groups (2 or 3) or individually.
+
+
+
+
