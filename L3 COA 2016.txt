@@ -1,0 +1,180 @@
+ 
+
+
+
+NCEA Level 3 Mathematics and Statistics
+
+Conditions of Assessment
+
+
+General Information
+
+Subject Reference	Mathematics and Statistics
+Domain	Algebra, Trigonometry, Geometry, Statistics, Probability
+Level	3
+	
+
+This document provides guidelines for assessment against internally assessed standards.   Guidance is provided on: 
+•	appropriate ways of, and conditions for, gathering evidence    
+•	ensuring that evidence is authentic
+•	any other relevant advice specific to an achievement standard.
+
+NB:  It is expected that teachers are familiar with additional generic guidance on assessment practice in schools published on the NZQA website. This should be read in conjunction with these Conditions of Assessment.
+
+For All Standards
+
+Internal assessment provides considerable flexibility in the collection of evidence.  Evidence can be collected in different ways to suit a range of teaching and learning styles and a range of contexts of teaching and learning.  Care needs to be taken to allow students opportunities to present their best evidence against the standard(s) that are free from unnecessary constraints. 
+
+It is recommended that the design of assessment reflects and reinforces the ways students have been learning.   Collection of evidence for the internally assessed standards could include, but is not restricted to, an extended task, an investigation, digital evidence (such as recorded interviews, blogs, photographs or film) or a portfolio of evidence. 
+
+It is also recommended that the collection of evidence for internally assessed standards should not use the same method that is used for any external standards in a programme/course, particularly if that method is using a time bound written examination.  This could unfairly disadvantage students who do not perform well under these conditions. 
+
+A separate assessment event is not needed for each standard.   Often assessment can be integrated into one activity that collects evidence towards two or three different standards from a programme of learning.  Evidence can also be collected over time from a range of linked activities (for example, in a portfolio).This approach can also ease the assessment workload for both students and teachers.
+
+Effective assessment should suit the nature of the learning being assessed, provide opportunities to meet the diverse needs of all students and be valid and fair.
+
+Assessment tasks are designed so that each task provides opportunity for students to provide evidence for all grades.  There are not separate tasks for each grade.  Holistic decisions will be used in the awarding of a grade by reference to the achievement criteria in the standard.
+
+Many of the standard titles use the wording “…in solving problems”.  It is important to note that acceptable evidence could come from a partially successful solution to a problem.  Communication of the process of solving a problem may yield the required evidence of thinking, even though a correct final solution to the problem is not obtained.
+
+Where manageable, and after further learning has taken place, students may be offered a maximum of one further opportunity for assessment against an assessment standard within a year.
+
+Authenticity of student evidence needs to be assured regardless of the method of collecting evidence.  This needs to be in line with school policy.  For example, for an investigation carried out over several sessions, this could include teacher observations or the use of milestones such as meetings with students, journal or photographic entries recording progress etc.
+
+Students are expected to have access to appropriate technology.  For statistics standards this would include statistical software.
+
+Specific Information for Individual Internal Achievement Standards
+
+Achievement Standard Number	91573 Mathematics and Statistics 3.1
+Title	Apply the geometry of conic sections in solving problems
+Number of Credits	3
+Version	1
+
+NB:  It is important to read the section “For All Standards” at the start of this document.  
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+
+Achievement Standard Number	91574 Mathematics and Statistics 3.2
+Title	Apply linear programming methods in solving problems
+Number of Credits	3
+Version	1
+
+NB:  It is important to read the section “For All Standards” at the start of this document.  
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+
+Achievement Standard Number	91575 Mathematics and Statistics 3.3
+Title	Apply trigonometric methods in solving problems
+Number of Credits	4
+Version	1
+
+NB:  It is important to read the section “For All Standards” at the start of this document.  
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+
+Achievement Standard Number	91576 Mathematics and Statistics 3.4
+Title	Use critical path analysis in solving problems
+Number of Credits	2
+Version	1
+
+NB:  It is important to read the section “For All Standards” at the start of this document.  
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+
+Achievement Standard Number	91580 Mathematics and Statistics 3.8
+Title	Investigate time series data
+Number of Credits	4
+Version	1
+
+NB:  It is important to read the section “For All Standards” at the start of this document.  
+
+Assessment of this standard involves an investigation.  Sufficient time should be allowed for students to complete the investigation.
+
+Students use a time series data set containing multiple variables.  This allows students to select a variable of interest to investigate. Students could also create a new variable to investigate using variables from the data set.  While students may investigate more than one time series this is not a requirement of the standard.
+
+The data set may either be provided by the teacher or students could source an appropriate data set.
+
+Background information related to the data set is to be provided to the student and the context should be one that is accessible and able to be understood by the students.  This background information should be provided in advance to allow time for students to research the context to gain that understanding.  Students should be sourcing relevant contextual knowledge about the situation under investigation from places such as the internet, the school or local library, newspapers and magazines.  These sources should be referenced in their report.
+
+If the student has sourced their own data they need to find their own background information and familiarise themselves with the context. They should acknowledge the data source if this is the case. 
+
+A further assessment opportunity needs to involve a new data set.
+
+
+Achievement Standard Number	91581 Mathematics and Statistics 3.9
+Title	Investigate bivariate measurement data
+Number of Credits	4
+Version	1
+
+NB:  It is important to read the section “For All Standards” at the start of this document.  
+
+Assessment of this standard involves an investigation.  Sufficient time should be allowed for students to complete the investigation.
+
+Students are to be provided with a multivariate data set.  This must include several continuous variables that can be used as response variables and could include a mixture of discrete or continuous variables that could be used as explanatory variables.
+
+Background information related to the data set is to be provided to the student and the context should be one that is accessible and able to be understood by the students.  This background information should be provided in advance to allow time for students to research the context to gain that understanding.  Students should be sourcing relevant contextual knowledge about the situation under investigation from places such as the internet, the school or local library, newspapers and magazines.  These sources should be referenced in their report.
+
+For the investigative question to be an appropriate one it is expected that a purpose for the investigation is evident.
+
+Use and interpretation of R2 is not expected at this level.
+
+A further assessment opportunity needs to involve a new data set.
+
+
+Achievement Standard Number	91582 Mathematics and Statistics 3.10
+Title	Use statistical methods to make a formal inference
+Number of Credits	4
+Version	1
+
+NB:  It is important to read the section “For All Standards” at the start of this document.  
+
+Assessment of this standard involves an investigation.  Sufficient time should be allowed for students to complete the investigation.
+
+Students are to be provided with a multivariate data set.  
+
+Background information related to the data set is to be provided to the student and the context should be one that is accessible and able to be understood by the students.  This background information should be provided in advance to allow time for students to research the context to gain that understanding.  Students should be sourcing relevant contextual knowledge about the situation under investigation from places such as the internet, the school or local library, newspapers and magazines.  These sources should be referenced in their report.
+
+For the investigative question to be an appropriate one it is expected that a purpose for the investigation is evident.
+
+It is expected that resampling methods be used for making formal inferences.
+
+A further assessment opportunity needs to involve a new data set.
+
+
+Achievement Standard Number	91583 Mathematics and Statistics 3.11
+Title	Conduct an experiment to investigate a situation using experimental design principles
+Number of Credits	4
+Version	1
+
+NB:  It is important to read the section “For All Standards” at the start of this document.  
+
+Assessment of this standard involves an investigation.  Sufficient time should be allowed for students to complete the investigation and to write the report about the investigation.
+
+Opportunity must be available for students to review their plan with the teacher before data collection and make minor adjustments to their plan in consultation with the teacher.
+
+Students can be provided with an experimental situation or may negotiate a suitable experimental situation with the teacher.
+
+Background information related to the experimental situation is to be provided to the student and the context should be one that is accessible and able to be understood by the students.  This background information should be provided in advance to allow time for students to research the context to gain that understanding.  Students should be sourcing relevant contextual knowledge about the situation under investigation from places such as the internet, the school or local library, newspapers and magazines.  These sources should be referenced in their report.
+
+For the investigative question to be an appropriate one it is expected that a purpose for the investigation is evident.
+
+If the student has negotiated an experimental situation with the teacher the student needs to source background information for that situation.
+
+It is expected that randomisation methods be used for making formal inferences.
+
+A further assessment opportunity needs to involve a new experimental situation.
+
+Achievement Standard Number	91587 Mathematics and Statistics 3.15
+Title	Apply systems of simultaneous equations in solving problems
+Number of Credits	3
+Version	1
+
+NB:  It is important to read the section “For All Standards” at the start of this document.  
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+

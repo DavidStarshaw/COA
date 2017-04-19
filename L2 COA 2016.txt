@@ -1,0 +1,206 @@
+ 
+
+
+NCEA Level 2 Mathematics and Statistics
+
+Conditions of Assessment
+
+
+General Information
+
+Subject Reference	Mathematics and Statistics
+Domains	Algebra,  Trigonometry, Geometry, Statistics, Probability
+Level	2
+	
+
+This document provides guidelines for assessment against internally assessed standards.   Guidance is provided on: 
+•	appropriate ways of, and conditions for, gathering evidence    
+•	ensuring that evidence is authentic
+•	any other relevant advice specific to an achievement standard.
+
+NB:  It is expected that teachers are familiar with additional generic guidance on assessment practice in schools published on the NZQA website. This should be read in conjunction with these Conditions of Assessment.
+
+For All Standards
+
+Internal assessment provides considerable flexibility in the collection of evidence.  Evidence can be collected in different ways to suit a range of teaching and learning styles and a range of contexts of teaching and learning.  Care needs to be taken to allow students opportunities to present their best evidence against the standard(s) that are free from unnecessary constraints. 
+
+It is recommended that the design of assessment reflects and reinforces the ways students have been learning.   Collection of evidence for the internally assessed standards could include, but is not restricted to, an extended task, an investigation, digital evidence (such as recorded interviews, blogs, photographs or film) or a portfolio of evidence. 
+
+It is also recommended that the collection of evidence for internally assessed standards should not use the same method that is used for any external standards in a programme/course, particularly if that method is using a time bound written examination.  This could unfairly disadvantage students who do not perform well under these conditions. 
+
+A separate assessment event is not needed for each standard.   Often assessment can be integrated into one activity that collects evidence towards two or three different standards from a programme of learning.  Evidence can also be collected over time from a range of linked activities (for example, in a portfolio).This approach can also ease the assessment workload for both students and teachers.
+
+Effective assessment should suit the nature of the learning being assessed, provide opportunities to meet the diverse needs of all students and be valid and fair.
+
+Assessment tasks are designed so that each task provides opportunity for students to provide evidence for all grades.  There are not separate tasks for each grade.  Holistic decisions will be used in the awarding of a grade by reference to the achievement criteria in the standard.
+
+Many of the standard titles use the wording “…in solving problems”.  It is important to note that acceptable evidence could come from a partially successful solution to a problem.  Communication of the process of solving a problem may yield the required evidence of thinking, even though a correct final solution to the problem is not obtained.
+
+Where manageable, and after further learning has taken place, students may be offered a maximum of one further opportunity for assessment against an assessment standard within a year.
+
+Authenticity of student evidence needs to be assured regardless of the method of collecting evidence.  This needs to be in line with school policy.  For example, for an investigation carried out over several sessions, this could include teacher observations or the use of milestones such as meetings with students, journal or photographic entries recording progress etc.
+
+Students are expected to have access to appropriate technology.  For statistics standards this would include statistical software.
+
+Specific Information for Individual Internal Achievement Standards
+
+Achievement Standard Number	91256 Mathematics and Statistics 2.1
+Title  	Apply co-ordinate geometry methods in solving problems
+Number of Credits	2
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+Applying co-ordinate geometry methods means the method selected is used in the solution of the problem, for example, if a gradient is found there needs to be evidence of it being used in the solution.
+
+
+Achievement Standard Number	91257 Mathematics and Statistics 2.2
+Title	Apply graphical methods in solving problems
+Number of Credits	4
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+The emphasis for this standard is on the use of methods in the process of solving problems rather than simply drawing graphs or finding equations of given graphs.
+
+ 
+Achievement Standard Number	91258 Mathematics and Statistics 2.3
+Title	Apply sequences and series in solving problems
+Number of Credits	2
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+Applying sequences and series means the method selected is used in the solution of the problem, for example, if a general term is found there needs to be evidence of its use as part of solving the problem.
+
+
+Achievement Standard Number	91259 Mathematics and Statistics 2.4
+Title	Apply trigonometric relationships in solving problems
+Number of Credits	3
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+
+Achievement Standard Number	91260 Mathematics and Statistics 2.5
+Title	Apply network methods in solving problems
+Number of Credits	2
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+
+Achievement Standard Number	91263 Mathematics and Statistics 2.8
+Title  	Design a questionnaire
+Number of Credits  	3
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Collection of evidence for this standard will happen over an extended period of time.  
+
+Students may be provided with a purpose for the questionnaire or they may negotiate a suitable purpose with the teacher.
+
+The context must be familiar to students and background detail available about the purpose and the users of the survey’s results.
+
+Students are expected to provide documentation of the design process.
+
+A further assessment opportunity must involve a new purpose for the questionnaire.
+
+
+Achievement Standard Number	91264 Mathematics and Statistics 2.9
+Title  	Use statistical methods to make an inference
+Number of Credits	4
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Assessment of this standard involves an investigation.  Sufficient time should be allowed for students to complete the investigation.
+
+It is intended that students have access to a set of population data from which they are to pose a comparative question and then take random samples to analyse in order to answer that question. The population data set must be sufficiently large enough to show a need to sample.
+
+The context must be familiar to students and background detail provided with the data set. 
+
+A further assessment opportunity must involve a new set of population data with a new context. 
+
+
+Achievement Standard Number	91265 Mathematics and Statistics 2.10
+Title	Conduct an experiment to investigate a situation using statistical methods
+Number of Credits	3
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Assessment of this standard involves an investigation.  Sufficient time should be allowed for students to complete the investigation.
+
+Opportunity must be available for students to review their posed question and plan with the teacher before data collection and make minor adjustments to their question and plan in consultation with the teacher. 
+
+Students may be provided with an experimental situation or may negotiate a suitable experimental situation with the teacher.
+
+The context of the experimental situation must be familiar to students.
+
+A further assessment opportunity must involve a new experimental situation. 
+
+
+Achievement Standard Number
+91266 Mathematics and Statistics 2.11
+Title	Evaluate a statistically based report
+Number of Credits	2
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+It is intended that students will be provided with the statistically based report and, if at all possible, also have access to the actual survey results. It may be that the teacher provides several reports for the students to choose from. It is important that the statistically based report contains significant statistical features to enable students to discuss both the features of the survey and the findings of the survey in their evaluation. 
+
+Teachers may choose to provide students with a list of “critical” or “worry” questions that should be considered when evaluating statistically based reports.
+
+Students are expected to have access to appropriate technology. This may be necessary to allow students to find further information to support their evaluation of the report.
+
+A further assessment opportunity must involve a new report. 
+
+There may be an opportunity to work with other learning areas to find statistically based reports that are of relevance to students.  For example, reports of scientific studies from science, results of polls and surveys in social studies, geography, tourism, history, economics.
+
+
+Achievement Standard Number	91268 Mathematics and Statistics 2.13
+Title	Investigate a situation involving elements of chance using a simulation
+Number of Credits	2
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Assessment of this standard involves an investigation.  Sufficient time should be allowed for students to complete the investigation.
+
+It is intended that students be provided with a situation to investigate. This must be one where results cannot easily be obtained through using theoretical probability models.
+
+The context must be familiar to students and background detail made available.
+
+Students need to collect their own data using their simulation.
+
+Opportunity must be available for students to review their simulation design with the teacher before carrying out the simulation and make minor adjustments to their design in consultation with the teacher. 
+
+A further assessment opportunity must involve a new situation for the investigation.
+
+
+Achievement Standard Number	91269 Mathematics and Statistics 2.14
+Title	Apply systems of equations in solving problems
+Number of Credits	2
+Version	3
+
+NB:  It is important to read the section “For All Standards” at the start of this document.
+
+Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+
+
+
+
