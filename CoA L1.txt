@@ -41,7 +41,8 @@ Where manageable, and after further learning has taken place, students may be of
 
 Authenticity of student evidence needs to be assured regardless of the method of collecting evidence.  This needs to be in line with school policy.  For example, for an investigation carried out over several sessions, this could include teacher observations or the use of milestones such as meetings with students, journal or photographic entries recording progress etc.
 
-Students are expected to have access to appropriate technology.  For statistics standards this would include statistical software.
+Students are expected to have access to appropriate technology that will enable students to develop and show their own thinking in solving problems.  For statistics standards this would include statistical software. 
+
 
 Specific Information for Individual Internal Achievement Standards
 
@@ -53,6 +54,8 @@ Version	3
 NB:  It is important to read the section “For All Standards” at the start of this document.
 
 Students need to be familiar with the context of any task. It is acceptable for them to know the context before the assessment.
+
+
 
 
 Achievement Standard Number	91029 Mathematics and Statistics 1.4
