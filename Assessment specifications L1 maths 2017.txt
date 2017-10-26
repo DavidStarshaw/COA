@@ -1,0 +1,132 @@
+Assessment Specifications
+Level 1 Mathematics and Statistics 2017
+General information
+Mode of Assessment
+Written Examination
+Standards
+91027  91028  91031  91037
+Format for the assessment
+Questions may:
+require candidates to process word problems at all levels of achievement
+have multiple parts. 
+Some parts of a question may be linked, and there may be scaffolding within the question.
+Opportunities for Merit and Excellence will be spread through the examination. As a result, the parts of a question may not be arranged in increasing order of difficulty.
+Candidates should be advised to attempt all parts of each question.
+Special notes
+In any of the level 1 external assessments, candidates may be expected to demonstrate evidence through a simple investigation.
+This may involve the investigation of an algebraic, statistical, or geometric relationship, and begin with a word problem or situation.
+Within 91028, candidates are expected to demonstrate the drawing of graphs, construction of tables, and/or forming equations when investigating a situation as required by the achievement standard.
+Candidates will be expected to demonstrate an understanding of the mathematical concepts, rather than directly transferring results from a graphing calculator. This may involve increased use of unknown constants.
+Correct answers only may not be sufficient for showing evidence of the level of thinking required by the standard.
+Candidates must choose their method when solving a problem. This must be consistent with the title of the achievement standard and at an appropriate curriculum level. The grade awarded may be affected by the level of thinking applied in solving the problem. Guess-and-check methods are unlikely to show the required thinking beyond possibly Achievement, and the opportunity to use this as evidence may be limited within any assessment. 
+As good mathematical practice, candidates should show intermediate steps in a logical manner and clearly communicate what is being calculated. By giving only the answer, candidates may lose the opportunity to provide evidence for grades or to have minor errors ignored and are unlikely to provide evidence towards a grade higher than Achievement.
+Themes may flow through questions.
+The answer from one part of a question may be required in answering subsequent parts. In this case, consistency of response may be assessed as being correct, provided the solution is not an essential component of the standard and providing the incorrect solution does not result in an easier question being solved.
+Solutions may require consideration to be given to their appropriateness with respect to the context of the question.
+The context needs to be considered when stating final solutions, e.g. the number of rolls of wire that need to be bought to fence an area (e.g. 6 rolls not 5.42 rolls), or restrictions on a variable to ensure area has a positive value.
+In algebra standards, answers should be expressed in their simplest algebraic form.
+Standards require a range of methods/procedures that may be assessed within an assessment. A combination of methods/procedures may be required in any part of a question and for the award of any level of achievement. Evidence of relational and abstract thinking may be demonstrated by the linking of these, leading towards all levels of achievement within part of a question.
+Assessment will involve a selection of these methods/procedures.
+Equipment to bring
+Ruler.
+All approved scientific or graphing calculators may be used by candidates entering level 1 Mathematics standards 91028, 91031, and 91037. A graphing calculator is an advantage in 91028. (Note that in the Common Assessment Task for Mathematics 91027, no calculators are allowed.)
+Specific information for individual external achievement standards
+Standard
+91027
+Subfield
+Mathematics
+Domain
+Algebra
+Title
+Apply algebraic procedures in solving problems
+Version
+4
+Number of credits
+4
+Format of the assessment
+The MCAT for AS91027 will be delivered on two days in term three (19 and 21 September).
+Schools are responsible, through their policies and procedures, for authenticating candidate work. Each school is required to have procedures in place for ensuring the work of each candidate is the candidate’s own. NZQA will require that schools provide notification of any school incidents during the delivery of the MCAT that may affect the authenticity of candidates’ work.
+Further clarification of the achievement standard
+The standard requires demonstration of the use of algebraic procedures. Small numbers are used in problems to compensate for the lack of calculators, which makes it likely candidates would be able to solve problems using guess-and-check, correct-answer-only and numerical methods. This does not provide a contribution of evidence towards achievement, as these methods do not provide evidence of choosing an appropriate algebraic procedure. Therefore, a maximum of one piece of evidence from correct-answer-only, or solution by guess-and-check or by numerical methods, may be accepted as evidence towards Achievement.
+Answers should be expressed in their simplest algebraic form. Except where the numbers are small, it is expected that answers will be left in fractional form and may contain pi.
+An understanding of the meaning of mathematical language such as “consecutive terms” is expected.
+Contexts from other strands of mathematics may be used, e.g. angles of simple geometric shapes, or Pythagoras. Knowledge of aspects of measurement in common geometrical shapes will be assumed. For more complex shapes a formula may be given.
+To meet the requirement of the standard with respect to solving problems, candidates will not be directed to solve factorised quadratics, factorise, expand, write or solve a linear equation, or simplify an expression involving the collection of like terms. Questions directing a candidate to perform a specific procedure will require an intermediary procedure required by the standard in order to answer the question.
+Given a word problem, candidates are required to write equation(s) representing the situation presented and demonstrate consistent use of these in solving a problem.
+Candidates will be expected to have a basic understanding of the relationship between a quadratic function and the associated graph.
+Evidence for Achievement will often come from problems involving multiple steps, i.e. questions that seek evidence for a higher level of performance. While this is the case for all standards, there is little that can be asked at Achievement level without directing the candidate.
+Standard
+91028
+Subfield
+Mathematics
+Domain
+Algebra
+Title
+Investigate relationships between tables, equations and graphs
+Version
+3
+Number of credits
+4
+Special notes
+A grid without axes may be provided for some questions.
+Further clarification of the achievement standard
+Investigating relationships may involve writing equations for data provided in a table of values or from a graph. Presentation of the situation in a different representation or from a word problem, without direction, will be required when responding to a question (graphs, tables, equations).
+Sketching of graphs from an equation may be required, i.e. in a mathematical context.
+Candidates may be expected to choose the representation to use in the solving of a problem.
+Graphs, tables, or equations may be required to be constructed to represent a practical situation that has been given in word form.
+Candidates may be required to understand the difference between graphs representing situations involving continuous data and graphs representing situations involving discrete data and piecewise functions.
+Candidates may be required to demonstrate an understanding of the nature of the data when discrete or continuous information is involved.
+Standard
+91031
+Subfield
+Mathematics
+Domain
+Geometry
+Title
+Apply geometric reasoning in solving problems
+Version
+4
+Number of credits
+4
+Special notes
+Information may be provided in text form.
+Rounding of bearing answers will not be required to any specified level of accuracy or with an expected number of figures in front of any decimal point.
+Solutions to questions involving the use of Pythagoras’ theorem may be left in surd form.
+Candidates are expected to be able to work with variables.
+Completion of proofs will be required. The use of clearly defined variables or the addition of lines to a diagram by the candidates is to be encouraged in formulating a proof.
+Some examples of acceptable geometric reasons are:
+Alt Angles
+Corr Angles
+Co-int angles
+(Vertically) opp angles
+∠  (on) line
+Isosc Δ
+Angles (in) △
+Similar Δ
+Rad (and) tan
+Angle at C or O.
+Terms such as Z or FUZ angles will not be accepted.
+Further clarification of the achievement standard
+Questions may require the use of trigonometric and geometric relationships.
+Questions may involve the use of bearings, or solution of problems in two dimensions set in three-dimensional contexts.
+Standard
+91037
+Subfield
+Statistics and Probability
+Domain
+Statistics
+Title
+Demonstate understanding of chance and data
+Version
+4
+Number of credits
+4
+Resources or information provided
+Candidates will be provided with a Question and Answer booklet, and there may be a separate Resource Sheet.
+Special notes
+Essay style answers are not required. Bulleted responses are acceptable.
+Further clarification of the achievement standard
+Candidates may be expected to find conditional probabilities using an informal approach.
+The use of probability trees will not be required; however, candidates may find the use of these helpful in identifying the sample space. The use of probability trees will be accepted but not expected.
+Knowledge and experience with probability experiments may be helpful in answering questions relating to probability.
+Questions will not require the use of ratios to calculate probabilities. However, an answer written correctly as a ratio will be accepted.

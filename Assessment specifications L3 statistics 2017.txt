@@ -1,0 +1,80 @@
+Assessment Specifications
+Level 3 Mathematics and Statistics 2017
+(Statistics)
+General information
+Mode of Assessment
+Written Examination
+Standards
+91584  91585  91586
+Format for the assessment (Statistics)
+All questions will provide opportunity for candidates to demonstrate all levels of performance: Achievement, Achievement with Merit, and Achievement with Excellence.
+Correct answers only may not be sufficient for showing evidence of the level of thinking required by the standard.
+Unless a method is specified within a question, candidates may choose their method when solving a problem, although the grade awarded may be affected by the level of thinking applied in solving the problem. Guess-and-check methods are unlikely to show the required thinking.
+Equipment to bring
+Candidates must bring an approved calculator (preferably a graphing calculator).
+Candidates who do not have access to graphing calculators will be disadvantaged.
+Resources or information provided
+A Formulae and Tables Booklet will be provided.
+Content/context details
+Solutions for problems may also require knowledge up to and including Statistics Curriculum Level 7.
+Questions may require candidates to interpret their solutions in context.
+Special notes
+Candidates will be required to demonstrate an understanding of the statistical concepts.
+Minor errors will not be penalised. Rounding in context may be required.
+Specific information for individual external achievement standards
+Standard
+91584
+Domain
+Statistics
+Title
+Evaluate statistically based reports
+Version
+2
+Number of credits
+4
+Further clarification of the achievement standard
+Candidates will need to answer questions about statistically based reports. The questions will require candidates to evaluate claims or conclusions made in the report. For example, this could involve:
+identifying and discussing potential sources of error associated with statistical studies
+calculating and interpreting margins of error
+considering study design and the type of inference.
+Candidates will not be provided with formulae for margin of error. Candidates should recall and use the “rules of thumb” based on
+1 n
+Resources or information provided
+Candidates will be provided with a Resource Booklet and a Question and Answer booklet.
+Content/context details
+Reports will be set in real-life contexts.
+Standard
+91585
+Domain
+Probability
+Title
+Apply probability concepts in solving problems
+Version
+2
+Number of credits
+4
+Further clarification of the achievement standard
+Probabilities may be expected to be calculated from formulae, a probability distribution table or graph, tables of counts or proportions, simulation results, or from written information. Candidates should clearly show the method they have used to calculate probabilities and state assumptions made.
+Content/context details
+Questions will be set in real-life contexts.
+Candidates may be required to interpret solutions in context.
+Sensible rounding is expected. Early rounding may be penalised.
+Standard
+91586
+Domain
+Probability
+Title
+Apply probability distributions in solving problems
+Version
+2
+Number of credits
+4
+Further clarification of the achievement standard
+Candidates should clearly identify the probability distribution applied in solving the problem and state assumptions made.
+Probabilities may be expected to be calculated from distributions presented as formulae, tables or graphs of data, simulation results, or written information.
+Candidates will need to be familiar with the normal, Poisson, binomial, uniform, and triangular distributions.
+Candidates may be expected to calculate or estimate the mean and standard deviation of a random variable.
+Content/context details
+Questions will be set in real-life contexts.
+Candidates may be required to interpret solutions in context.
+Sensible rounding is expected. Early rounding may be penalised.

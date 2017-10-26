@@ -1,0 +1,81 @@
+Assessment Specifications
+Level 2 Mathematics and Statistics 2017
+General information
+Mode of Assessment
+Written Examination
+Standards
+91261  91262  91267
+ 	  Updated March 2017
+Format for the assessment
+Opportunities for Merit and Excellence will be spread through the examination.
+As a result, question parts may not be arranged in order of increasing difficulty.
+In order to be awarded Achievement, a candidate may be required to demonstrate evidence within a question part that could also assess a higher level of thinking.
+Correct answers will generally not be sufficient for showing evidence of the level of thinking required by the standard. This means a candidate who is using a graphing calculator will be required to demonstrate algebraic methods and give the derivate and integrals in calculus.
+Candidates are expected to choose their method when solving a problem, although the grade awarded may be affected by the level of thinking applied in solving the problem. Guess-and-check methods are unlikely to show the required thinking.
+Candidates must show any working that is asked for in the assessment.
+Standards require a range of methods from Explanatory Note 4 to be demonstrated within an assessment.
+Candidates will be expected to answer questions that demonstrate an understanding of the mathematical concepts in the solving of problems.
+Candidates may be required to understand the use of a letter such as “k” to represent a constant or coefficient. Minor errors will not be penalised unless they directly relate to the methods listed in the standard, e.g. expansion of (x+4)(x-3) to give x2 + x +12 cannot be identified as an algebraic or numerical error and, therefore, cannot be accepted. Rounding in context may be required.
+Knowledge of mathematical terms such as indices, exponents, tangents, proportion, and the like is assumed.
+The answer from one question part may be required in answering subsequent parts. In this case, consistency of response will be assessed as being correct, provided the solution is not an essential component of the standard and providing the incorrect solution does not result in an easier question to be solved.
+Equipment to bring
+Candidates will require an approved calculator (preferably a graphing calculator). Candidates who do not have access to graphing calculators will be disadvantaged.
+Resources or information provided
+A Level 2 Mathematics Formulae Sheet, including normal distribution table, will be provided.
+Content/context details
+Solutions for problems may also require knowledge up to and including Mathematics Curriculum Level 6, and for higher levels of achievement may incorporate content knowledge across different Level 2 Mathematics achievement standards in order to solve a problem.
+Questions may be set in a mathematical context.
+Questions may require candidates to interpret their solutions in context.
+Specific information for individual external achievement standards
+Standard
+91261
+Domain
+Algebra
+Title
+Apply algebraic methods in solving problems
+Version
+3
+Number of credits
+4
+Further clarification of the achievement standard
+For the award of Excellence, candidates may be required to
+form and solve exponential equations relating to interest, growth and decay, and suchlike
+understand the meaning of rational (fractional) numbers in regards to the roots of equations
+Any equations formed by the candidate must be stated in solving a problem.
+Candidates must demonstrate algebraic techniques rather than providing only the correct answer.
+Given the form of a model, candidates may be required to complete the model using the information given in the context of the question.
+Answers should be expressed in their simplest algebraic form.
+Standard
+91262
+Domain
+Calculus
+Title
+Apply calculus methods in solving problems
+Version
+3
+Number of credits
+5
+Content/context details
+Derivatives and anti-derivatives must be shown.
+Candidates will be required to use the derivatives and anti-derivatives that they have found.
+Candidates may be required to draw the graph of the gradient of a function having been given the graph of the function, or vice versa.
+Answers should be expressed in their simplest algebraic form.
+Candidates may be required to justify the nature of the maximum or minimum points, e.g. shape of curve, second derivative, or testing points.
+At higher levels of achievement, candidates may be required to form their own polynomials.
+Candidates may need to be familiar with the terms "local maximum and minimum".
+Standard
+91267
+Domain
+Probability
+Title
+Apply probability methods in solving problems
+Version
+3
+Number of credits
+4
+Further clarification of the achievement standard
+Questions may require knowledge of inverse normal calculations.
+Probabilities may be expected to be calculated from one or more tables, written information, or a probability tree.
+In describing and comparing distributions, candidates should include reference to the shape of the graph, the centre of the distribution(s), and the spread of the data, from provided statistics or the graph.
+Conditional probability questions may be included that can be answered by using informal or intuitive methods. This may include risk or relative risk.
+Students should give clear description of “skewness” in their responses, e.g. “skew to the left”. 

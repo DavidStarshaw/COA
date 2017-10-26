@@ -1,0 +1,76 @@
+Assessment Specifications
+Level 3 Mathematics and Statistics 2017
+(Mathematics)
+General information
+Mode of Assessment
+Written Examination
+Standards
+91577  91578  91579
+Format for the assessment (Mathematics)
+All questions will provide opportunity for candidates to demonstrate all levels of performance: Achievement, Achievement with Merit, and Achievement with Excellence.
+Correct answers only may not be sufficient for showing evidence of the level of thinking required by the standard.
+Unless a method is specified within a question, candidates may choose their method when solving a problem, although the grade awarded may be affected by the level of thinking applied in solving the problem. Guess-and-check methods are unlikely to show the required thinking.
+Candidates must show any working that is asked for in the assessment, eg.. derivatives, anti-derivatives, and equations.
+Equipment to bring
+Candidates must bring an approved calculator (preferably a graphing calculator).
+Candidates who do not have access to a graphing calculator will be disadvantaged.
+Resources or information provided
+A Formulae and Tables Booklet will be provided.
+Special notes
+Candidates will be required to answer questions that demonstrate an understanding of the mathematical concepts rather than directly transferring results from their graphing calculator. This may involve use of unknown constants.
+As good mathematical practice, candidates should be encouraged to show intermediate steps clearly and logically, communicating what is being calculated. Candidates who give the correct response only may lose the opportunity to provide evidence for other grades or to have minor errors ignored.
+Unless otherwise stated, rounding of any numerical answers to three significant figures will be of sufficient accuracy. Minor errors caused by rounding will not be penalised. Inappropriate use of units may count as a minor error and may not be penalised. It is expected that relevant working will be shown.
+When graphing calculators are used to solve a problem, candidates must provide evidence of their differentiation and integration skills.
+Content/context details
+Problems will be set in real life or in mathematical contexts.
+Solutions for problems providing opportunities for Achievement with Merit and Achievement with Excellence may incorporate content knowledge from other level 3 Calculus achievement standards.
+Problems that allow candidates to provide evidence for Achievement with Excellence may require candidates to devise their own model.
+Specific information for individual external achievement standards
+Standard
+91577
+Domain
+Algebra
+Title
+Apply the algebra of complex numbers in solving problems
+Version
+2
+Number of credits
+5
+Further clarification of the achievement standard
+Candidates will be required to demonstrate high-level algebra skills in a logical manner, including the manipulation of constants, e.g. solving an equation to find an expression for x in terms of k.
+Note that complex numbers include real numbers.
+Standard
+91578
+Domain
+Calculus
+Title
+Apply differentiation methods in solving problems
+Version
+2
+Number of credits
+6
+Further clarification of the achievement standard
+Candidates using graphing calculators will not receive credit for correct solutions to problems assessed against this standard where they have not provided the correct derived function.
+Problems assessing optimisation at Achievement and Achievement with Merit level will not require candidates to prove that a solution is a maximum or a minimum. This will be given by a statement such as:
+You may assume that
+
+OR
+You may assume that your solution is a minimum.
+Problems will assess understanding of concepts of differentiation.
+Candidates must show any derivatives that are needed to solve the problems.
+Candidates may be required to form their own equations for problems that provide evidence for Achievement with Merit and Achievement with Excellence.
+Equations of tangents may be included.
+Standard
+91579
+Domain
+Calculus
+Title
+Apply integration methods in solving problems
+Version
+2
+Number of credits
+6
+Further clarification of the achievement standard
+Candidates using graphing calculators will not receive credit for correct solutions to problems assessed against this standard where they have not provided the correct integrated function. That is, candidates must show the results of any integration needed to solve a problem.
+Candidates may be required to form their own equations for problems providing evidence for Achievement with Merit and Achievement with Excellence.
+Solving differential equations may require manipulation of exponents and logarithms.
