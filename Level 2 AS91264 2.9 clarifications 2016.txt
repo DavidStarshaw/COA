@@ -1,0 +1,15 @@
+91264: Use statistical methods to make an inference
+Updated December 2016. This document has been updated in its entirety to address new issues that have arisen from moderation.
+The assessment activity needs to include sufficient contextual knowledge to provide opportunities for statistical insight.
+Problem
+The investigative question that is posed must involve a comparison. This needs to include the variable, population groups being compared, population parameter (median) the inference will be about and the direction of the comparison.
+For example, an appropriate question is ‘For 2015, was the median weight of hand luggage on Air New Zealand flights to Wellington from Auckland less than the median weight of hand luggage on Air New Zealand flights to Wellington from overseas?’
+Plan and Data
+The investigation involves selecting random samples from the population groups and using information from the samples to make an inference about the population groups. The data set needs to be of a real context and sufficiently large so that students can regard the data set as the population to be investigated. Students must demonstrate an understanding of the population from which the sample will be taken.
+Analysis
+For Merit and Excellence, the informal confidence intervals must be interpreted in context, for example ‘I am pretty sure that the median height for NZ year 12 boys is somewhere between xxx and yyy’.
+The discussion of the sample distributions needs to be about the distributions of the variables, for example, the heights of NZ year 12 boys and NZ year 12 girls. It should also include numerical values and associated units. The basis of the discussion will be the visual evidence. Sample statistics could be used to justify the discussion.
+Conclusion
+Students need to make an inference which will answer the posed investigative question, be consistent with the analysis, and show the uncertain nature of the inference.
+If there is no overlap in the informal confidence intervals, an appropriate conclusion is ‘I am pretty sure that the population median for A is greater than/less than the population median for B’. If there is an overlap in the intervals the appropriate conclusion is ‘There is not enough evidence to make a call that the population median for A is greater than/less than the population median for B’.
+An understanding of sampling variability, including the variability of estimates must be evident. Another sample could give different statistics and different informal confidence intervals. For the inference, the informal confidence intervals are still likely to capture the population parameter. It is insufficient to consider only the impact of sample size.

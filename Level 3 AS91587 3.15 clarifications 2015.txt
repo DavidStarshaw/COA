@@ -1,0 +1,16 @@
+91587: Apply systems of simultaneous equations in solving problems
+Updated September 2015. This document has been updated in its entirety to address new issues that have arisen from moderation.
+Solving problems
+The problem needs to provide sufficient scope for students to demonstrate and develop their own thinking. If there are parts to the problem, all of the parts need to contribute to the solution. A task with a number of discrete skills based questions is not appropriate for students to demonstrate evidence of the required levels of thinking.
+Students need to make their own decisions about what to do and how to solve problems. Where an assessment task has a series of instructions that lead students through a sequence of steps towards the solution, it is likely that the opportunity for students to demonstrate all levels of thinking will be compromised.
+Expected evidence for Achieved
+For Achieved, the requirements include selecting and using methods. To be used as evidence, a method must be relevant to the solution of the problem. Students need to provide evidence of the equations when they form a system of equations.
+Expected evidence for Merit
+If the context leads to a situation where the system of equations is consistent or inconsistent, students are likely to demonstrate relational thinking by demonstrating algebraically that the system of equations are consistent/inconsistent, and interpreting the solution in context.
+Expected evidence for Excellence
+If the context leads to a situation where the system of equations is consistent, students could demonstrate extended abstract thinking by generalising the solution to this system in the form x = f(t), y = g(t) and z = h(t), where t is a parameter.
+Communicating solutions
+At all grades there is a requirement relating to the communication of the solutions.
+At Achieved, students need to indicate what the calculated answer represents.
+At Merit, students need to clearly indicate what they are finding, and their solutions need to be linked to the context.
+At Excellence, students need to explain any decisions that they make in the solution of the problem.

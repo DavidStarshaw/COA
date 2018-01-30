@@ -1,0 +1,16 @@
+91582: Use statistical methods to make a formal inference
+Updated October 2015. This document has been updated in its entirety to address new issues that have arisen from moderation.
+Students need to provide evidence of each component of the statistical enquiry cycle detailed in Explanatory Note 3 of the standard.
+Posing an appropriate comparison investigative question using a given multivariate data set
+Sufficient time needs to be allocated for students to research the context and acquire appropriate contextual knowledge. For all grades, students need to identify a purpose and pose an investigative question which is informed by this contextual knowledge. The question needs to be comparative, and needs to refer to the population and the parameter under investigation.
+An appropriate question could be: "What is the difference between the median number of text messages sent per day by adults in New Zealand and the median number of text messages sent per day by teenagers in New Zealand?"
+Discussing sample distributions
+Students need to discuss, in context, what they see in the displays of the sample distributions. This could include central tendency, spread, shift and unusual values.
+Discussing sampling variability including the variability of estimates
+Students need to show an understanding that if they were to take another sample from the population this is likely to result in different displays and summary statistics.
+Making an appropriate formal statistical inference
+Students need to use the bootstrap confidence interval for the difference of the medians/means to answer their investigative question. The inference needs to identify the population and the parameter. Students also need to show an understanding about the nature of the confidence interval.
+An appropriate formal inference could be: “I am fairly sure that, in New Zealand, the median number of text messages sent by adults is more than the median number of text messages sent by teenagers and that the difference in the medians is between 12 and 17 text messages per day.”
+Required quality of student response
+For Merit, students need to justify all findings with reference to evidence from the displays and statistics, and to link the purpose and findings to their research.
+For Excellence, students need to integrate the statistical and contextual knowledge gained from their research throughout the response, and to reflect on the process. Reflection could be shown by considering other relevant explanations.

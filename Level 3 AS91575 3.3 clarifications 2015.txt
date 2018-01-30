@@ -1,0 +1,15 @@
+91575: Apply trigonometric methods in solving problems
+Updated September 2015. This document has been updated in its entirety to address new issues that have arisen from moderation.
+Solving problems
+The problem needs to provide sufficient scope for students to demonstrate and develop their own thinking. If there are parts to the problem, all of the parts need to contribute to the solution. A task with a number of discrete skills-based questions is not appropriate for students to demonstrate evidence of the required levels of thinking.
+Students need to make their own decisions about what to do and how to solve problems. Questions such as ‘Prove that sin3x = 3sinx – 4sin3x’ or ‘Solve 3sin2x = 2.1’ are inappropriate because they tell students what to do and have no purpose.
+Where an assessment task has a series of instructions that lead students through a sequence of steps towards the solution, it is likely that the opportunity for students to demonstrate all levels of thinking will be compromised.
+Expected evidence for Achieved
+For Achieved, the requirements include selecting and using methods. To be used as evidence, a method must be relevant to the solution of the problem. The methods also need to be at curriculum level 8.
+Explanatory Note 4
+Properties of trigonometric functions are the attributes which apply to all of the trigonometric functions in a group. For example, sine functions are periodic and the amplitude is constant.
+Communicating solutions
+At all grades there is a requirement relating to the communication of the solutions. For example, students need to identify the properties of trigonometric functions that they have used in forming a model. Students need to provide evidence of the graph(s) if they are solving equations using graphical methods.
+At Achieved, students need to indicate what the answer represents.
+At Merit, students need to clearly indicate what they are finding, and their solutions need to be linked to the context.
+At Excellence, students need to explain any decisions that they make in the solution of the problem.

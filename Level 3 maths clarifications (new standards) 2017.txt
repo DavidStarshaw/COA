@@ -1,0 +1,48 @@
+New level 3 standards
+As the result of trialling the following information is available to assist teachers to assess level three standards.
+This document will be updated as soon as suitable material can be collected from students through the external moderation process.
+This document should be read in conjunction with the achievement standard, the Conditions of Assessment document and the Teaching and Learning Guide. Additional information for the statistics standards is available.
+91573  Apply the geometry of conic sections in solving problems
+To be used as evidence for the award of Achieved, a ‘method’ must be relevant to the solution of the problem and at the appropriate curriculum level.
+At all levels there is a requirement relating to the communication of the solutions.
+91574  Apply linear programming methods in solving problems
+To be used as evidence for the award of Achieved, a ‘method’ must be relevant to the solution of the problem and at the appropriate curriculum level.
+At all levels there is a requirement relating to the communication of the solutions.
+91575  Apply trigonometric methods in solving problems
+To be used as evidence for the award of Achieved, a ‘method’ must be relevant to the solution of the problem and at the appropriate curriculum level.
+At all levels there is a requirement relating to the communication of the solutions.
+91576  Use critical path analysis in solving problems
+To be used as evidence for the award of Achieved, a ‘method’ must be relevant to the solution of the problem and at the appropriate curriculum level.
+At all levels there is a requirement relating to the communication of the solutions.
+91580  Investigate time series data
+The assessment requires multiple sessions to allow time for students to research the context and develop a purpose prior to completing the analysis.
+Students need to have knowledge about the context and statements that are made need to be related to the context.
+Use of a statistical graphing package is expected.
+Students need to provide evidence of each component of the statistical enquiry cycle detailed in Explanatory Note 3 of the standard.
+Features of the data include the trend and seasonal pattern.
+While students could investigate more than one time series or combine series this is not a requirement of the standard.
+91581  Investigate bivariate measurement data
+The assessment requires multiple sessions to allow time for students to research the context and develop a purpose prior to completing the analysis.
+Students need to have knowledge about the context and statements that are made need to be related to the context.
+Use of a statistical graphing package is expected.
+Students need to provide evidence of each component of the statistical enquiry cycle detailed in Explanatory Note 3 of the standard.
+The scatter plot needs to be inspected visually before any model is fitted. It is possible a linear model may not be appropriate for the data that is being investigated and this should be determined by looking at a scatter plot of the raw data.
+Use and interpretation of R2 is not expected at this level.
+91582  Use statistical methods to make a formal inference
+The assessment requires multiple sessions to allow time for students to research the context and develop a purpose prior to completing the analysis.
+Students need to have knowledge about the context and statements that are made need to be related to the context.
+Use of a statistical graphing package is expected.
+Students need to provide evidence of each component of the statistical enquiry cycle detailed in Explanatory Note 3 of the standard.
+The analysis will involve students determining if there is a difference between the population medians (or means) and quantifying the difference in the medians (or means) by using the bootstrap confidence interval.
+A suitable investigative question would be ‘I wonder what the difference in median heights is between NZ year 13 boys and NZ year 13 girls?’
+91583  Conduct an experiment to investigate a situation using experimental design principles
+The assessment requires multiple sessions to allow time for students to research the context and develop a purpose prior to completing the analysis.
+Use of a statistical graphing package is expected.
+Students need to provide evidence of each component of the investigation process detailed in Explanatory Note 3 of the standard.
+There needs to be a clear and meaningful purpose for the experiment.
+Students need to identify experimental units, the treatment and the response variable and how the treatment is to be allocated to the experimental units.
+Students need to make a formal statistical inference which will be a causal inference based on the strength of evidence. This will involve the use of randomisation.
+The conclusion needs to be consistent with the analysis and answer the investigative question.
+91587  Apply systems of simultaneous equations in solving problems
+To be used as evidence for the award of Achieved a ‘method’ must be relevant to the solution of the problem and at the appropriate curriculum level.
+At all levels there is a requirement relating to the communication of the solutions.

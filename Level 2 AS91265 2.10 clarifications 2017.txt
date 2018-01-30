@@ -1,0 +1,17 @@
+91265: Conduct an experiment to investigate a situation using statistical methods
+Updated November 2017. This document has been updated in its entirety to address new issues that have arisen from moderation.
+The assessment activity needs to include sufficient contextual knowledge to provide opportunities for statistical insight.
+Plan
+Students can be provided with the experimental situation which they will investigate by posing an investigative question, planning and carrying out an experiment. The experiment needs to involve an intervention and the investigative question needs to be about the effect of that intervention.
+A suitable investigative question would be: ‘Does changing from jumping off your dominant foot to jumping off your non-dominant foot affect how far you can jump horizontally?’.
+Part of the plan for the experiment will include students making their own decisions about the intervention, the variables they will measure and how they will measure them.
+Comparison of two independent groups
+The experimental units need to be randomly assigned to the two groups (the control group and the treatment group).
+Students should produce dot plots and/or box plots of each independent group. Students need to compare and discuss features such as shape, shift, centre, spread and unusual features and link these discussions to the treatment.
+Paired comparison
+In a paired comparison, ‘before’ and ‘after’ measurements are taken on the same person or object.
+The displays should retain the link between the observations and the experimental unit. Appropriate displays could be an arrow plot or a dot plot and/or box plot of the differences. Students need to compare and discuss the features of the displays and how the effect of the treatment varies from one experimental unit to another.
+Required quality of student response
+For Achieved, it is sufficient to provide evidence of using each component of the investigation process. The conclusion needs to include a ‘suggestive inference’. For example, a student might conclude that exercising appears to have caused an increase in the pulse rates for that particular experimental group.
+Merit is with justification. This involves students linking components of the process to the context. In their plan students must consider related variables and their possible effects on the investigation. Findings need to be supported with evidence gained from the experiment.
+Excellence is with statistical insight and involves considering related variables, their possible effects and plans to ensure the data collected is consistent. It also includes the integration of statistical and contextual knowledge, for example, a student might use contextual knowledge to help explain what is observed, for example higher pulse rates after exercise.

@@ -1,0 +1,14 @@
+91581: Investigate bivariate measurement data
+Updated September 2015. This document has been updated in its entirety to address new issues that have arisen from moderation.
+Students need to provide evidence of each component of the statistical enquiry cycle detailed in Explanatory Note 3 of the standard.
+It is possible for a student to meet the criteria for all grades by considering an appropriate linear model.
+Posing an appropriate relationship question using a given multivariate data set
+Sufficient time needs to be allocated for students to research the context and acquire appropriate contextual knowledge. For all grades, students need to identify a purpose, and to pose a relationship question which is informed by this contextual knowledge.
+Students may choose to split or re-categorise the data as part of the investigation. The initial data set should be sufficiently large to ensure that the subsets of data that may be investigated are large enough to allow a meaningful investigation.
+Identifying features in the data
+Students need to create a scatter graph, and need to use a visual inspection to describe features in the data, before fitting a model. Features need to include the strength and direction of the relationship, and could include whether a linear model is appropriate, clusters and unusual values. Students need to take care to justify the existence of any unusual value/outlier with reference to the data set and the context.
+Using the model to make a prediction
+Students need to make a prediction, in context, for at least one value of the explanatory variable. The precision of the prediction could be discussed by reviewing the strength of the relationship and the scatter on the graph close to the relevant explanatory data value. It is not sufficient to produce a table of values for the prediction.
+Required quality of student response
+For Merit, students need to justify all findings with reference to evidence from the displays and statistics, and link the purpose and findings to their research.
+For Excellence, students need to integrate the statistical and contextual knowledge gained from their research throughout the response, and also to reflect on the process. Reflection could be shown by considering other relevant variables, evaluating the adequacy of the model or showing a deeper understanding of the model.

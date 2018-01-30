@@ -1,0 +1,15 @@
+91035: Investigate a given multivariate data set using the statistical enquiry cycle
+Updated December 2017. This document has been updated to address issues that have arisen from moderation.
+An understanding of the difference between sample and population is required at all levels.
+Data
+The provided data set needs to be a sample from a named population, and needs to allow for choice of both the category variable and the numerical variable. The sample sizes need to be appropriate for the rule that is being used to make the call. If the “¾ - ½“ rule is used then both sample sizes need to between 20 and 40. If the “overall visible spread rule” is used then both sample sizes need to be around 30 (the critical fraction is then 1/3), or around 100 (1/5).
+Problem
+Students need to pose their own investigative question for this standard. The question needs to involve a comparison, and include the variable to investigate, the groups being compared, the population, the direction of the comparison and the idea of ‘tendency’. For example, a suitable question would be ‘For 2015, do New Zealand year 11 boys tend to be taller than New Zealand year 11 girls?’
+Analysis
+When discussing features of distributions comparatively, students need to use the visual evidence in the displays. A comparison of corresponding sample statistics does not provide evidence for discussing features of the distributions comparatively. Comments about the features need to be comparative, and refer to the groups and the variable. For example, a student might observe that the middle 50% of heights of year 11 boys is higher up the scale than the middle 50% of heights of year 11 girls.
+Conclusion
+It is expected that the conclusion is based on the approach of looking at the position of the medians relative to the location of the ‘boxes’ (the middle 50% of the data). The answer to the investigative question needs to be consistent with the analysis that has occurred.
+At all levels of achievement, the answer needs to demonstrate an understanding of the link from the sample to the population, the groups and the variable. For example, ‘My analysis suggests that, in 2015, Year 9 students in Christchurch secondary schools who use public transport generally took longer to travel to school than those who did not use public transport’, or ‘My analysis does not allow me to make a call about whether 2014 Year 9 students in Dunedin tended to take longer to travel to school in the morning than they took to travel home in the afternoon’.
+Required quality of student response
+For Merit, students need to justify all findings with reference to evidence from the displays and statistics, and link their findings to the context and their own contextual knowledge.
+For Excellence, students need to integrate statistical knowledge and their own contextual knowledge throughout the response, and could also reflect on the process and/or consider other relevant variables.
